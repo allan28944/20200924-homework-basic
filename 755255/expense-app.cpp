@@ -13,5 +13,4 @@ int main() {
     }
     cout << price_total;
 }
-
  
